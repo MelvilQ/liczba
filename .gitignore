@@ -6,3 +6,6 @@ node_modules
 
 # NativeScript application
 /dist
+
+# Release Build Script
+release-build.sh
