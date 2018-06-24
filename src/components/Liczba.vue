@@ -1,6 +1,6 @@
 <script>
   import {TNSTextToSpeech} from 'nativescript-texttospeech';
-  import * as app from 'application';
+  import * as app from 'tns-core-modules/application';
   
   export default {
     name: 'Liczba',
